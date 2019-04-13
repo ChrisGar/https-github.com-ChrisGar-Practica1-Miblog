@@ -141,14 +141,26 @@ Mx_ThunderValley.html
 ![texto cualquiera por si no carga la imagen](Imagenes/30.png)
 
 
+ Estilos1.css estilo index.html
+ ![texto cualquiera por si no carga la imagen](Imagenes/css1a.png)
+ ![texto cualquiera por si no carga la imagen](Imagenes/css1b.png)
+ ![texto cualquiera por si no carga la imagen](Imagenes/css1c.png)
+ ![texto cualquiera por si no carga la imagen](Imagenes/css1d.png)
+ ![texto cualquiera por si no carga la imagen](Imagenes/css1e.png)
  
+ Estilos2.css estilo de articulos.html
+ ![texto cualquiera por si no carga la imagen](Imagenes/css2a.png)
+ ![texto cualquiera por si no carga la imagen](Imagenes/css2b.png)
+ ![texto cualquiera por si no carga la imagen](Imagenes/css2c.png)
+ ![texto cualquiera por si no carga la imagen](Imagenes/css2d.png)
+ ![texto cualquiera por si no carga la imagen](Imagenes/css2e.png)
  
- 
-
-
-
-
-
+ Estilos3.css estilo de las demás paginas html
+ ![texto cualquiera por si no carga la imagen](Imagenes/css3a.png)
+ ![texto cualquiera por si no carga la imagen](Imagenes/css3b.png)
+ ![texto cualquiera por si no carga la imagen](Imagenes/css3c.png)
+ ![texto cualquiera por si no carga la imagen](Imagenes/css3d.png)
+ ![texto cualquiera por si no carga la imagen](Imagenes/css3e.png)
 
 
 
